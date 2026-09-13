@@ -1,0 +1,34 @@
+;meta[language=en]
+; id      |key(hex)|key(str)| text
+2112060000|4d5f8b0c||Mods
+2112060001|1c195c41||True Water
+2112060002|563e04a4||General Night * Factor
+2112060003|a376d025||Velen/Novigrad
+2112060004|799b451b||Skellige
+2112060005|484b2bc7||Toussaint
+2112060006|a3548fff||Swamps
+2112060007|525a6c85||Kaer Morhen
+2112060008|4e660383||White Orchard
+2112060009|fbd6e4b8||Default
+2112060010|ce9583a8||Default
+2112060011|9298beda||Default
+2112060012|fbb4a492||Default
+2112060013|51bf3bd2||Default
+2112060014|07d43390||Default
+2112060015|ab384331||Default
+2112060016|dbc53d43||Underwater Brightness
+2112060017|ccd1c80c||Underwater Fog
+2112060018|f358d6e6||Ambient Scale
+2112060019|8b6f63b0||Ambient Diffuse
+2112060020|048f2d29||Fresnel
+2112060021|edb95493||Caustics
+2112060022|cd673927||Foam
+2112060023|6a7b6fb1||Water Color (Red)
+2112060024|6a7b6fa6||Water Color (Green)
+2112060025|6a7b6fa1||Water Color (Blue)
+2112060026|6a7b6fa0||Water Color (Alpha)
+2112060027|64298e82||Underwater Color (Red)
+2112060028|64298e77||Underwater Color (Green)
+2112060029|64298e72||Underwater Color (Blue)
+2112060030|64298e71||Underwater Color (Alpha)
+2112060031|452ae3c8||Multiplier

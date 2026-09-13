@@ -1,0 +1,246 @@
+;meta[language=en]
+; id      |key(hex)|key(str)| text
+2117400000|72c8a65b||AutoLoot +A.S.
+2117400001|603aa015||Settings
+2117400002|b13d48f1||Settings Presets
+2117400003|851b7b5c||Default
+2117400004|bde9af95||Enable AutoLoot Mod
+2117400005|45b020ff||Increase Geralt's Carrying Capacity
+2117400006|f8648e15||No Accidental Stealing
+2117400007|bb11969a||Disable Stealing Mechanic
+2117400008|803081f5||Loot Enemies When Killed
+2117400009|f4ca5b19||Warning if Autoloot Looted Quest/Protected Container
+2117400010|1fd074a0||Force Quest Container Looting
+2117400011|b90652df||Reset All Settings (Close Menu/Load Game to Take Effect)
+2117400012|ff47a2d9||Global Filters
+2117400013|938736b5||Global Filters Presets
+2117400014|ae609cd8||Exclude Witcher Diagrams (Scavenger Hunt Missions)
+2117400015|c891b1e9||<font size="22">Exclude Special Containers<font size="18"> (Bandit Camp/Treasure/Smugglers' Cache/Spoils of War)</font>
+2117400016|085b48b0||Exclude Trophies
+2117400017|6fc2679b||Exclude Herbs in Corvo Bianco
+2117400018|f95491a3||Exclude Bee Hives
+2117400019|bed9f48f||Exclude Dropped Items
+2117400020|7bdd8a63||No Loot if Player Rides a Horse
+2117400021|65a1ef58||Destroy Weapon + Armor White Quality (<font color="#BC1515">EXPERIMENTAL!</font>)
+2117400022|35a4f875||<font color="#7F7F7F">Off</font>
+2117400023|be4adb77||On (-Crossbows)
+2117400024|a6e44a19||On
+2117400025|44f6f384||Container Filters
+2117400026|5ff2d560||Container Filters Presets
+2117400027|91290e12||Corpses Only
+2117400028|84389f95||One Item Only
+2117400029|5869d9ca||Corpse Filter (Checks if "Container" is a Corpse)
+2117400030|c908f253||Dropped Items Filter
+2117400031|b8239440||Quantity Filter (Checks # of Items in Container)
+2117400032|e01953ff||Number of Items (Threshold for Comparisons)
+2117400033|370c48f2||Quantity Comparison Mode
+2117400034|61cdbbe6||Less Than/Exactly (&lt;= Threshold)
+2117400035|d78f7a52||Exactly (= Threshold)
+2117400036|9161128d||More Than/Exactly (&gt;= Threshold)
+2117400037|3d29e57f||Interaction Key Looting<br/><font color="#7F7F7F"><font size="18">(Loots Everything)</font>
+2117400038|d169795b||Interaction Key Presets
+2117400039|5f140470||Behaviour of Interaction Key ('E')
+2117400040|31a3dc2b||<font size="22"><font color="#7F7F7F">Vanilla Popup (Disables Option Below)</font>
+2117400041|a98ba167||<font size="22">Vanilla Popup for Unique Containers Only</font>
+2117400042|963f17a3||<font size="22">Autoloot Containers</font>
+2117400043|f31785a3||Distance to Search for Containers When Looting One
+2117400044|73e2b663||Distance to Search for Herbs When Looting One
+2117400045|978c5c56||Item Filters
+2117400046|dc0cb5fa||Item Filters Presets
+2117400047|cec180bd||Select All
+2117400048|51b3c026||Skip White Items
+2117400049|99d009ad||<font color="#FF8F00">Use Filters</font> <font size="21">(Off Loots Everything)</font>
+2117400050|6e49e6a2||Herb Filter
+2117400051|b0b25452||Armor Filter
+2117400052|d3dab021||Select Quality
+2117400053|bfb993b2||Maximum Possible Quantity in the Inventory (0 = Disabled)
+2117400054|592febe4||= Common (White)
+2117400055|697dec5b||= Master (Blue)
+2117400056|a8904494||= Magic (Yellow)
+2117400057|a8d89e5a||= Relic (Orange)
+2117400058|e4eb1bdb||= Witcher (Green)
+2117400059|ca23ca7a||&lt;= Master (Blue)
+2117400060|ccb6a695||&lt;= Magic (Yellow)
+2117400061|ccff005b||&lt;= Relic (Orange)
+2117400062|e76355d5||>= Master (Blue)
+2117400063|17fac3da||>= Magic (Yellow)
+2117400064|18431da0||>= Relic (Orange)
+2117400065|1e4be113||Select Value (>= Loot)
+2117400066|34027551||Weapon Filter
+2117400067|00b470c6||Ingredient Filter (Crafting/Alchemy Items/Dyes)
+2117400068|d7b71abd||Junk Filter (Loot Items Considered "Junk")
+2117400069|508983e5||Readable Filter (Books, Notes, Maps, etc.) - UNREAD
+2117400070|fc021681||Readable Filter (Books, Notes, Maps, etc.) - READ
+2117400071|08528bd6||<font size="21">Maximum Possible Quantity for Missing Books in the Inventory (0 = Disabled)</font>
+2117400072|c652af13||Currency Filter (Crowns/Florens/Orens)
+2117400073|d97557fd||Select Number of Each Currency (>= Loot)
+2117400074|828c4a53||Food and Drink Filter
+2117400075|eec8efaf||Upgrade Filter (Glyph/Rune/Mutagen)
+2117400076|bb40c070||Horse Equipment Filter (Blinders/Saddles/Saddlebags)
+2117400077|774b1a65||Trophy Filter
+2117400078|85c2540d||Tool Filter (Repair Kit)
+2117400079|c9a51163||Other Filter ("Quest Items/Other" Tab) - not Keys/Readable
+2117400080|8e978779||Formula Filter (Schematics/Recipes)
+2117400081|26a0a261||Mask Filter
+2117400082|dd77ed32||Key Filter
+2117400083|faf2a504||Radius Key Looting
+2117400084|1301d4e0||Radius Looting Presets
+2117400085|337764f1||Light Mode
+2117400086|3f38886c||Normal Mode
+2117400087|33f7c787||Ultra Mode
+2117400088|2066da96||Ignore Filters While Holding Radius Key Looting (Loots Everything)
+2117400089|78afa928||True AutoLoot
+2117400090|c9b25204||True AutoLoot Presets
+2117400091|deb8681a||Use True AutoLoot
+2117400092|07a39771||Begin Searching When Game Starts/Loads
+2117400093|e65d0bf4||Popup Setting When Game Starts/Loads
+2117400094|fcc55054||Show Both
+2117400095|8d1d9eb7||Hide "Disabled" Popup
+2117400096|7acd33a6||Hide "Enabled" Popup
+2117400097|9bdef53c||Hide Both
+2117400098|a75f7a5e||No Loot if Player doesn't Move (Horse/Boat/Swimming Excluded)
+2117400099|e5217b06||Minimum Time Between True AutoLoot Popups (seconds)
+2117400100|84a07913||Searching Frequency (seconds)
+2117400101|54895836||Notifications
+2117400102|7a59d8da||Notification Presets
+2117400103|1aee0bc3||<font color="#FF8F00">*</font>Vanilla
+2117400104|8372a910||<font color="#FF8F00">*</font>Mod's Default
+2117400105|143ff948||<font color="#FF8F00">*</font>No Backgr. 2
+2117400106|465b11b9||<font color="#FF8F00">*</font>With Frame
+2117400107|48eff63b||Enable Loot Notifications
+2117400108|87234bd7||Black Background Color of Default Popup Window
+2117400109|2c70b6a5||<font color="#FF8F00">*</font>Black Background Color of Loot Popup Window
+2117400110|99e6aac0||<font color="#FF8F00">*</font>Background Opacity of Loot Popup Window (0% = Hidden)
+2117400111|1f926974||<font color="#FF8F00">*</font>Add Font Outline
+2117400112|7c5926f2||No Outline
+2117400113|ca8259d9||Light Outline
+2117400114|925aea34||Strong Outline
+2117400115|7c58f32c||Alternative Outline
+2117400116|2b2749f7||Notification Font Size
+2117400117|f748ea0f||Horizontal Move of Loot Popup Window (X-axis)
+2117400118|f748ea10||Vertical Move of Loot Popup Window (Y-axis)
+2117400119|7d6ae978||Width of Loot Popup Window
+2117400120|9adc6dc6||Horizontal Move of Book Popup Window (X-axis)
+2117400121|9adc6dc7||Vertical Move of Book Popup Window (Y-axis)
+2117400122|ad7e76eb||<font color="#FF8F00">*</font>Color of Header/Suffixes (Read, Known)
+2117400123|32fb5d45||<font color="#FFFFFF">Color 1</font>
+2117400124|2c704bc4||<font color="#D8D8D8">Color 2</font>
+2117400125|61992d25||<font color="#FFF8D1">Color 3</font>
+2117400126|2c704bd1||<font color="#D5FFF2">Color 4</font>
+2117400127|32fb5d52||<font color="#95FFDB">Color 5</font>
+2117400128|2c704d57||<font color="#FFCDBD">Color 6</font>
+2117400129|61995df2||<font color="#FBD9FB">Color 7</font>
+2117400130|d19260b7||<font color="#BBE5FF">Color 8</font>
+2117400131|2c704bd3||<font color="#B0B000">Color 9</font>
+2117400132|32fb5d54||<font color="#FFFF00">Color 10</font>
+2117400133|2c704d95||<font color="#FF9F24">Color 11</font>
+2117400134|61996574||<font color="#FF4500">Color 12</font>
+2117400135|d1934975||<font color="#FF008E">Color 13</font>
+2117400136|61996581||<font color="#FEA9FE">Color 14</font>
+2117400137|2c704da2||<font color="#7E61FF">Color 15</font>
+2117400138|61996707||<font color="#5F29FE">Color 16</font>
+2117400139|d1937a42||<font color="#C800FF">Color 17</font>
+2117400140|60dbce67||<font color="#00FFE7">Color 18</font>
+2117400141|61996583||<font color="#64F387">Color 19</font>
+2117400142|2c704da4||<font color="#00FF0C">Color 20</font>
+2117400143|61996745||<font color="#17CAFF">Color 21</font>
+2117400144|d19381c4||<font color="#4682B4">Color 22</font>
+2117400145|60dcb725||<font color="#006D6C">Color 23</font>
+2117400146|d19381d1||<font color="#A1A1A1">Color 24</font>
+2117400147|61996752||<font color="#666666">Color 25</font>
+2117400148|d1938357||<font color="#666666">C26=Black (Use With No Outline)</font>
+2117400149|8447e357||<font color="#FF8F00">*</font>Common Quality Items Color (Main)
+2117400150|07ee09b0||<font color="#3661dc">Color 1 (Vanilla)</font>
+2117400151|f5d32cb9||<font color="#367CDC">Color 2</font>
+2117400152|c4926ad0||<font color="#00BFFF">Color 3</font>
+2117400153|f373e23c||<font color="#909000">Color 1 (Vanilla)</font>
+2117400154|7b0865ad||<font color="#C4C92D">Color 2</font>
+2117400155|e604505c||<font color="#D8F135">Color 3</font>
+2117400156|d6faeab6||<font color="#934913">Color 1 (Vanilla)</font>
+2117400157|08626c73||<font color="#B25817">Color 2</font>
+2117400158|03eb2256||<font color="#FF7510">Color 3</font>
+2117400159|4d0c0b08||<font color="#197319">Color 1 (Vanilla)</font>
+2117400160|54755661||<font color="#019A01">Color 2</font>
+2117400161|3a357628||<font color="#00AA00">Color 3</font>
+2117400162|3fca9540||<font color="#FF8F00">*</font>Master Quality Items Color (Blue)
+2117400163|c09e4af7||<font color="#FF8F00">*</font>Magic Quality Items Color (Yellow)
+2117400164|de851cf1||<font color="#FF8F00">*</font>Relic Quality Items Color (Orange)
+2117400165|6a3f9e10||<font color="#FF8F00">*</font>Witcher Quality Items Color (Green)
+2117400166|4adc5da0||Use Notification Header
+2117400167|10aaca91||Use Item Descriptions
+2117400168|6e41a048||Show Item Numbers
+2117400169|dae3379f||Maximum Items in Each Loot Popup Window
+2117400170|491e308b||Show Quantities
+2117400171|a195a022||Use Loot Sound
+2117400172|695af776||Use Item Colors
+2117400173|04f85d5b||Use Item Images
+2117400174|479ce714||Hide Notifications Until Combat Ends
+2117400175|bbdb7331||Show Loot in Action Log
+2117400176|e9f71b74||Display Time (seconds)
+2117400177|9dc27063||Extra Display Time Per Item (milliseconds)
+2117400178|d36a473b||Shortcuts
+2117400179|a2bcb9df||Shortcuts Presets
+2117400180|09a463c5||Disable Distance Shortcuts:
+2117400181|cb3a1638||Radius Looting
+2117400182|47b82bfc||True AutoLoot
+2117400183|c4423ecb||Both
+2117400184|706379e6||Step for Radius Looting Distance Keys
+2117400185|65f5de2a||Step for True AutoLoot Distance Keys
+2117400186|d5d8fe45||*Alternative Press Function for Distance Keys (Options Below)
+2117400187|2e1d3016||Radius Looting Distance (1)
+2117400188|2e1d43fc||Radius Looting Distance (2)
+2117400189|1bd57b4e||Radius Looting Distance (3)
+2117400190|3961014b||True AutoLoot Distance (1)
+2117400191|39611531||True AutoLoot Distance (2)
+2117400192|6569d343||True AutoLoot Distance (3)
+2117400193|f853ddb9||Silent Popup
+2117400194|10630d95||Silent Popup Presets
+2117400195|b9e3815a||Autoloot Popup With Interaction Key ('E') for Selections Below
+2117400196|b5696c8f||Gathered Herbs Only
+2117400197|f7452158||Disable Loot Popup for: Herbs
+2117400198|fd40b477||Disable Loot Popup for: Ingredients (Quality Selection)
+2117400199|4062dcec||Hide White
+2117400200|d6397ad1||Hide Blue-
+2117400201|01bad1eb||Hide Yellow-
+2117400202|8ff30d25||Hide Orange-
+2117400203|f749ab01||Disable Loot Popup for: Readable - READ
+2117400204|f7445dc9||Disable Loot Popup for: Food and Drink
+2117400205|f74645b3||Disable Loot Popup for: Junk (not "Sea Shell")
+2117400206|d73ebe9b||Junk Value (>= Show / 1 Hide Everything / def. 150)
+2117400207|eab393fc||Disable Loot Popup for: Currency (Crowns/Florens/Orens)
+2117400208|71cd130e||Number of Each Currency (>= Show / 1 Hide Everything)
+2117400209|8feda66f||Disable Loot Popup for: Armors (Quality Selection)
+2117400210|3c920d05||Disable Loot Popup for: Weapons (Quality Selection)
+2117400211|4d5f8b0c||Mods
+2117400212|a3ce6192||AutoLoot: Default Settings Loaded
+2117400213|4881c3af||<font size="22">AutoLoot ERROR: Missing/outdated mod menu!<br/><br/><font size="20">>> check if the file below exists/isn't outdated or renamed:<br/><font size="18">...\The Witcher 3\bin\config\r4game\user_config_matrix\pc\<br/>AHDAutoLootConfig.xml<br/><br/><font size="19">>> run Menu Filelist Updater to add the following line to<br/>dx11filelist.txt/dx12filelist.txt<br/><font color="#073D1D">AHDAutoLootConfig.xml;</font>
+2117400214|4f50ca9f||AutoLoot ERROR: Font size not set!
+2117400215|3369b943||<font color="#FF0000">WARNING</font>: Autoloot looted quest/protected container!
+2117400216|218aed4d||The current position of Autoloot popup window...
+2117400217|265299cc||Received:
+2117400218|10f20fc0||Received During Combat:
+2117400219|92cec70d|| (Read)
+2117400220|e4e719ce|| (Known)
+2117400221|964b3e04||Radius Looting Distance
+2117400222|9a4bcdc8||True AutoLoot Distance
+2117400223|2436ccc5||True AutoLoot
+2117400224|1f7974c4||Filters
+2117400225|288a7085||INFO
+2117400226|0ad782d3||Disabled
+2117400227|f2785c0a||Enabled
+2117400228|9e8488b1||Use Filters
+2117400229|29baddc8||Disabled (Loots Everything)
+2117400230|9bb93476||Current (Press) / Toggle (Hold): "Use Filters" Settings
+2117400231|18c94a3a||Activate AutoLoot Radius
+2117400232|21dc9d36||Toggle True AutoLoot
+2117400233|063f5dff||Radius Looting: Current Distance / Distance (2)*
+2117400234|93d3f783||True AutoLoot: Current Distance / Distance (2)*
+2117400235|685681ec||Radius Looting: Distance Step[-] / Distance (1)*
+2117400236|881c7d70||True AutoLoot: Distance Step[-] / Distance (1)*
+2117400237|ad01afa4||Radius Looting: Distance Step[+] / Distance (3)*
+2117400238|f336da28||True AutoLoot: Distance Step[+] / Distance (3)*
+2117400239|4e34aa7c||Allow in Combat
+2117400240|e8ce2156||Distance to Search for Loot
+2117400241|bd741bb5||Maximum Containers to Loot at Once
+2117400242|47d531e8||Distance to Search for Containers
+2117400243|50887290||Distance to Search for Herbs

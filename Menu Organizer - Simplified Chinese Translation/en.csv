@@ -1,0 +1,163 @@
+;meta[language=en]
+; id      |key(hex)|key(str)| text
+2118587100|4d5f8b0c||Mods
+2118587101|3101111d||Presets
+2118587102|f9a9325a||Go to
+2118587103|2ad0c4d9||Back to
+2118587104|603d58e8||Menu Organizer
+2118587105|3d336058||<font size='23'>Default</font>
+2118587106|78649df6||<font size='23'>Category Order</font>
+2118587107|75600b58||Organization Method
+2118587108|8d93c876||Page Circulation
+2118587109|26d19a25||Folder Hierarchy
+2118587110|512142ef||<font size='23'>Page Circulation</font>
+2118587111|ea5f149e||<font size='23'>Folder Hierarchy</font>
+2118587112|d212df76||Entry Limit
+2118587113|02b767e5||Display hint about menu path
+2118587114|7645574d||Display with # if the string cannot be obtained correctly
+2118587115|e632508a||Sort mod menus alphabetically
+2118587116|dd7aa54d||On (Ignore IMM_Settings.ws)
+2118587117|a85ff435||Categorize mod menus
+2118587118|476005a4||Ignore xml edits with Menu Strings
+2118587119|f7ea62bd||1st category
+2118587120|f7ea62be||2nd category
+2118587121|f7ea62bf||3rd category
+2118587122|f7ea62c0||4th category
+2118587123|f7ea62c1||5th category
+2118587124|f7ea62c2||6th category
+2118587125|f7ea62c3||7th category
+2118587126|f7ea62c4||8th category
+2118587127|f7ea62c5||9th category
+2118587128|da670984||Close the options menu and apply the settings changes
+2118587129|b414e7ff||In the page circulation method, the maximum number of entries is 8.<br>If the setting is higher than 8, it will automatically be changed to 8.
+2118587130|a999ac6f||In the folder hierarchy method, the minimum number of entries is 2.<br>If the setting is less than 2, it will automatically be changed to 2.
+2118587131|e8ead188||To apply settings changes, you must close the options menu.
+2118587132|8d979f51||Applied Menu Organizer settings changes.
+2118587133|e0c5c893||Need to open options menu.
+2118587134|99921606||No menu found for <<mod>>.
+2118587135|17490f7b||Menu Path
+2118587136|d1e2d165||Display menu path for the Menu Organizer
+2118587137|1bdd8ddd||You need to open the mods menu.
+2118587138|ddb4f52f||You need to close the currently displayed panel.
+2118587139|18c981f6||Exclude autosave and checkpoint from quickload
+2118587140|196ea42d||Controls
+2118587141|8312d7b7||Uncategorized
+2118587142|9933ec85||Debug Quest
+2118587143|8b9d9423||Quick Load
+2118587144|f08631ab||Added Menus
+2118587145|3acfa045||Menus added by other mods
+2118587146|f99e62bc||No menus have been added.
+2118587147|1968b891||Contents
+2118587148|17196c07||Mods Menu
+2118587149|90821540||Mods Menu (Main Menu)
+2118587150|fd161279||Mods Menu (Game Menu)
+2118587151|e45cb826||Options Menu
+2118587152|1630e9ee||Options Menu (Main Menu)
+2118587153|42fbe195||Options Menu (Game Menu)
+2118587154|65584bba||Video Options Menu
+2118587155|b8970787||Mod Categories
+2118587156|f663d4b7||Mods Menu Settings
+2118587157|b44034a3||Other Menus Settings
+2118587158|e8298593||Main Menu Organization
+2118587159|7f37074c||Game Menu Organization
+2118587160|74d1b9ea||Options Menu Organization (Main Menu)
+2118587161|a19cb191||Options Menu Organization (Game Menu)
+2118587162|dad17b3e||Video Options Menu Organization
+2118587163|963aad25||Mod Category Organization
+2118587164|4fb03151||Hide DLC expansion logos
+2118587165|fd57c469||Show/Hide Hint
+2118587166|0594b149||Move Up One Item
+2118587167|f3a43462||Move Down One Item
+2118587168|d13ccedb||Move Up 5 Items
+2118587169|75bb3574||Move Down 5 Items
+2118587170|701e9af1||Change Sort Order
+2118587171|df70466d||Change the Number of Entries per Page
+2118587172|fbefc7f6||Enable/Disable Menu
+2118587173|1dfb2944||Reset the Sort Order
+2118587174|49235046||Close the Popup Menu
+2118587175|08231d41||Show the List of Menus
+2118587176|25fdee3f||Show the List of Mod Menus
+2118587177|e1663854||Show the List of Added Menus
+2118587178|6cb74a11||Move to Item Up or Down
+2118587179|d48da423||Move to Item 5 Places Away
+2118587180|f9ad1386||Page
+2118587181|3bcd04dd||Menus
+2118587182|025098db||Outside the OPTIONS
+2118587183|83e79080||Inside the OPTIONS
+2118587184|2aad7c19||Outside the CONTROLS
+2118587185|dbf57914||Inside the CONTROLS
+2118587186|2aa7907d||Outside the CONTENTS
+2118587187|dbef8d78||Inside the CONTENTS
+2118587188|3c69d7f7||The OPTIONS menu must be placed on page 1. <br>If it is placed on page 2 or later, it will automatically move to page 1.
+2118587189|5e9500f3||The OPTIONS menu has been moved to page 1.
+2118587190|9e59ef5a||The number on the left represents the number of mod menus in that category.
+2118587191|a2e48201||The data has not been loaded. <br>The data will be loaded by opening the <<menu>> once.
+2118587192|1810431f||There is no save data.
+2118587193|1807db4b||There are no changes.
+2118587194|af951019||Hide Only the Text
+2118587195|7a5f14c8||Hide All
+2118587196|3270472e||Format
+2118587197|52096b36||To enable Gamma Settings, you need to go to the <font color='#7a3202'>Graphics Settings</font> and set <font color='#0055ff'>[Display Mode]</font> to <font color='#0055ff'><u>Full Screen</u></font> and turn <font color='#c45902'>[System Gamma Preservation]</font> to <font color='#c45902'><u>Off</u></font>.
+2118587198|91b5a666||Order Of Menus
+2118587199|e1cacf03||Disable Menus
+2118587200|8c5110e9||For this option to apply, <<option>> must be set to <<value>>.
+2118587201|0942dcb5||Show Unused Categories as Well
+2118587202|a3f467d0||Hide Unused Categories
+2118587203|50ee0172||This can be done from the <<modCategory>> menu.
+2118587204|f757af36||<u>Mods Menu Sorting</u> must be set to "Manual".
+2118587205|20535af1||Mods Menu Sorting
+2118587206|d0878966||Automatic (alphabetical order)
+2118587207|7a191568||Manual
+2118587208|c426f02d||Mods Menu Organization
+2118587209|394713f3||The following Mod menus have been moved to <<modCategory>>:
+2118587210|c2e64743||Select Multiple
+2118587211|d379e912||Move the Mod Menus to Another Category
+2118587212|d2b1903e||Decide on a Category
+2118587213|5cf18d53||Decision
+2118587214|094b3e54||Selected Mod Menus
+2118587215|f9ae8bf4||Show
+2118587216|f9a98e39||Hide
+2118587217|9bd12dd2||Unused Categories
+2118587218|443718bf||Integrated Categories
+2118587219|039d5a87||Move to the Top of the Category
+2118587220|9ad3c486||Move to the Top/
+2118587221|9fdf59bb||Nothing is selected.
+2118587222|183ad89e||The same category cannot be selected.
+2118587223|1592a3b7||Mod menus moving from <<modCategory>>:
+2118587224|638ff435||-----Common Options in the Mod Menus-----
+2118587225|326d6ba5||Folder
+2118587226|d2e1e2ff||Import Settings from IMM_Settings.ws
+2118587227|d9989793||The categorization and order of the mod menus will be changed as shown in the list below.<br><br>Settings for mod menus not listed here will not be changed.
+2118587228|14b1c826||Applied:
+2118587229|9665880e||Menu Organization
+2118587230|d6d4ef8a||Other Options
+2118587231|1f84cfbb||Import Settings from XML
+2118587232|923a179e||When <u><<l option_/TmrckIMM_MenuCategorization l>></u> is off
+2118587233|0324c572||Error:<br>Option group "<<optionGroup>>" has insufficient entries. You need to edit the XML to add more entries.
+2118587234|cd66c30b||Remove Categorization and Order Settings for Uninstalled Mods
+2118587235|0e48d390||No settings to remove have been saved.
+2118587236|c9dac50c||Do not display the Menu Organizer menu inside the Mods menu
+2118587237|3e5bf898||Mod Version
+2118587238|a865d207||Uninstalled mod IDs have been listed from the mod menu’s category and order settings.<br><br>If Menu Organizer becomes extremely slow or an “insufficient entries” error appears, select OK in this menu to remove these IDs. This may improve the issue.
+2118587239|7cc660cd||Hide game version
+2118587240|29a1ce0f||Hide username
+2118587241|9d3faf1b||Don't show sign-in notifications
+2118587242|85b03d80||Unable to get username.
+2118587243|2f32b451||Error:<br>The XML file for the Menu Organizer options menu is not installed correctly.
+2118587244|84716170||Menu Labeling
+2118587245|dec37dc9||NEW
+2118587246|f9ae7274||SAVE
+2118587247|f9ab75dd||LOAD
+2118587248|dec35904||DLC
+2118587249|afec7fa6||All selected save data will be deleted.<br><br>Are you sure?
+2118587250|52f4cc45||Bulk Select (Hold to Deselect)
+2118587251|645cf497||Number of selected saves
+2118587252|3c34492d||Total
+2118587253|6ad7a5b4||DLC Options Organization
+2118587254|c984e1f0||Remove Order Settings for Uninstalled DLCs
+2118587255|be371782||Uninstalled DLC IDs have been listed from the DLC option order settings.<br><br>If Menu Organizer becomes extremely slow or an “insufficient entries” error appears, select OK in this menu to remove these IDs. This may improve the issue.
+2118587256|aa4ea295||You need to return to the main menu.
+2118587257|3a27039c||There are no XML files for the mod menu that have categories defined.
+2118587258|d695f9f4||There is nothing in the list in IMM_Settings.ws.
+2118587259|12d3af20||You can access the Menu Organizer menu by pressing the key shown in the bottom-right corner of the screen.
+2118587260|2c841584||Error: <br> Menu Organizer keybinds are not correctly added to the input.settings file.

@@ -1,0 +1,15 @@
+;meta[language=en]
+; id      |key(hex)|key(str)| text
+2117278001|4d5f8b0c||Mods
+2117278002|a7683339||Turn On The Lights
+2117278003|da84d881||Automatic Mode
+2117278004|600e7618||Manual Mode
+2117278005|76fc98ab||Range
+2117278010|31b824e5||Mode
+2117278011|3c3d21ad||Automatic
+2117278012|34d92444||Manual
+2117278020|058cb63b||Lights Range
+2117278030|d7358e1c||Turn lights On or Off in Automatic Mode
+2117278040|f2481725||Hide Ignite/Extinguish prompts on lights
+2117278050|97bd2f6d||Enable Action Button
+2117278060|86953c6c||Disable Automatic Mode during Day Time
